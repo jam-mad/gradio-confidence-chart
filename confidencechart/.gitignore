@@ -1,0 +1,28 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.pyi
+
+# Node
+node_modules/
+confidencechart/frontend/node_modules/
+
+# Gradio build output
+confidencechart/frontend/dist/
+confidencechart/backend/gradio_confidencechart/templates/
+
+# HuggingFace
+*.ckpt
+*.safetensors
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/

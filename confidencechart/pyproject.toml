@@ -1,0 +1,41 @@
+[build-system]
+requires = [
+  "hatchling",
+  "hatch-fancy-pypi-readme>=22.5.0",
+]
+build-backend = "hatchling.build"
+
+[project]
+name = "gradio_confidencechart"
+version = "0.0.1"
+description = "A custom Gradio component that renders animated, interactive confidence bar charts for ML classification results"
+readme = "README.md"
+license = "apache-2.0"
+requires-python = ">=3.10"
+authors = [{ name = "Jamal", email = "jam-mad@users.noreply.github.com" }]
+keywords = ["gradio-custom-component", "gradio-template-Label", "gradio", "classification", "visualization", "chart"]
+dependencies = ["gradio>=6.0,<7.0"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Scientific/Engineering",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+  "Topic :: Scientific/Engineering :: Visualization",
+]
+
+[project.urls]
+repository = "https://github.com/jam-mad/gradio-confidence-chart"
+
+[project.optional-dependencies]
+dev = ["build", "twine"]
+
+[tool.hatch.build]
+artifacts = ["/backend/gradio_confidencechart/templates", "*.pyi"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["/backend/gradio_confidencechart"]

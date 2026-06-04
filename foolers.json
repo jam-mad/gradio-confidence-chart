@@ -1,0 +1,514 @@
+[
+  {
+    "sentence": "it 's somewhat clumsy and too lethargically paced -- but its story about a mysterious creature with psychic abilities offers a solid build-up , a terrific climax , and some nice chills along the way . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9998,
+    "positive_score": 0.9998,
+    "negative_score": 0.0002,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "although huppert 's intensity and focus has a raw exhilaration about it , the piano teacher is anything but fun . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9997,
+    "positive_score": 0.9997,
+    "negative_score": 0.0003,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "the lower your expectations , the more you 'll enjoy it . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9996,
+    "positive_score": 0.9996,
+    "negative_score": 0.0004,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "the longer the movie goes , the worse it gets , but it 's actually pretty good in the first few minutes . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9996,
+    "positive_score": 0.9996,
+    "negative_score": 0.0004,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "if steven soderbergh 's ` solaris ' is a failure it is a glorious failure . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9994,
+    "positive_score": 0.0006,
+    "negative_score": 0.9994,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "moretti 's compelling anatomy of grief and the difficult process of adapting to loss . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9994,
+    "positive_score": 0.9994,
+    "negative_score": 0.0006,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "this riveting world war ii moral suspense story deals with the shadow side of american culture : racial prejudice in its ugly and diverse forms . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9993,
+    "positive_score": 0.9993,
+    "negative_score": 0.0007,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "sit through this one , and you wo n't need a magic watch to stop time ; your dvd player will do it for you . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9992,
+    "positive_score": 0.9992,
+    "negative_score": 0.0008,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "while there 's something intrinsically funny about sir anthony hopkins saying ` get in the car , bitch , ' this jerry bruckheimer production has little else to offer ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9987,
+    "positive_score": 0.0013,
+    "negative_score": 0.9987,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "no screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9987,
+    "positive_score": 0.0013,
+    "negative_score": 0.9987,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "it 's everything you do n't go to the movies for . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9987,
+    "positive_score": 0.9987,
+    "negative_score": 0.0013,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "you wo n't like roger , but you will quickly recognize him . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9985,
+    "positive_score": 0.9985,
+    "negative_score": 0.0015,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "teen movies have really hit the skids . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.998,
+    "positive_score": 0.998,
+    "negative_score": 0.002,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "it seems to me the film is about the art of ripping people off without ever letting them consciously know you have done so ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9977,
+    "positive_score": 0.9977,
+    "negative_score": 0.0023,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "i 'll bet the video game is a lot more fun than the film . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9977,
+    "positive_score": 0.9977,
+    "negative_score": 0.0023,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "it showcases carvey 's talent for voices , but not nearly enough and not without taxing every drop of one 's patience to get to the good stuff . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9974,
+    "positive_score": 0.9974,
+    "negative_score": 0.0026,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "movie fans , get ready to take off ... the other direction . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9969,
+    "positive_score": 0.9969,
+    "negative_score": 0.0031,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "sam mendes has become valedictorian at the school for soft landings and easy ways out . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9968,
+    "positive_score": 0.9968,
+    "negative_score": 0.0032,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "american chai encourages rueful laughter at stereotypes only an indian-american would recognize . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9964,
+    "positive_score": 0.9964,
+    "negative_score": 0.0036,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "it 's hard to like a film about a guy who is utterly unlikeable , and shiner , starring michael caine as an aging british boxing promoter desperate for a taste of fame and fortune , is certainly that . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9963,
+    "positive_score": 0.9963,
+    "negative_score": 0.0037,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "jaglom ... put ( s ) the audience in the privileged position of eavesdropping on his characters ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9961,
+    "positive_score": 0.0039,
+    "negative_score": 0.9961,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "a coda in every sense , the pinochet case splits time between a minute-by-minute account of the british court 's extradition chess game and the regime 's talking-head survivors . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9948,
+    "positive_score": 0.0052,
+    "negative_score": 0.9948,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "another one of those estrogen overdose movies like `` divine secrets of the ya ya sisterhood , '' except that the writing , acting and character development are a lot better . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9939,
+    "positive_score": 0.0061,
+    "negative_score": 0.9939,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "harrison 's flowers puts its heart in the right place , but its brains are in no particular place at all . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9938,
+    "positive_score": 0.0062,
+    "negative_score": 0.9938,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "by getting myself wrapped up in the visuals and eccentricities of many of the characters , i found myself confused when it came time to get to the heart of the movie . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9936,
+    "positive_score": 0.9936,
+    "negative_score": 0.0064,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "... routine , harmless diversion and little else . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9934,
+    "positive_score": 0.0066,
+    "negative_score": 0.9934,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "the story and the friendship proceeds in such a way that you 're watching a soap opera rather than a chronicle of the ups and downs that accompany lifelong friendships . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9927,
+    "positive_score": 0.9927,
+    "negative_score": 0.0073,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "turns potentially forgettable formula into something strangely diverting . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9925,
+    "positive_score": 0.0075,
+    "negative_score": 0.9925,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "as unseemly as its title suggests . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9922,
+    "positive_score": 0.0078,
+    "negative_score": 0.9922,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "what better message than ` love thyself ' could young women of any size receive ? ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9917,
+    "positive_score": 0.0083,
+    "negative_score": 0.9917,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "very special effects , brilliantly bold colors and heightened reality ca n't hide the giant achilles ' heel in `` stuart little 2 `` : there 's just no story , folks . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9911,
+    "positive_score": 0.9911,
+    "negative_score": 0.0089,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "with its dogged hollywood naturalism and the inexorable passage of its characters toward sainthood , windtalkers is nothing but a sticky-sweet soap . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.991,
+    "positive_score": 0.991,
+    "negative_score": 0.009,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "holden caulfield did it better . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9908,
+    "positive_score": 0.9908,
+    "negative_score": 0.0092,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "( d ) oes n't bother being as cloying or preachy as equivalent evangelical christian movies -- maybe the filmmakers know that the likely audience will already be among the faithful . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9898,
+    "positive_score": 0.0102,
+    "negative_score": 0.9898,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "an absurdist comedy about alienation , separation and loss . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9892,
+    "positive_score": 0.9892,
+    "negative_score": 0.0108,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "every dance becomes about seduction , where backstabbing and betrayals are celebrated , and sex is currency . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.989,
+    "positive_score": 0.989,
+    "negative_score": 0.011,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "davis ... is so enamored of her own creation that she ca n't see how insufferable the character is . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9881,
+    "positive_score": 0.9881,
+    "negative_score": 0.0119,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "every nanosecond of the the new guy reminds you that you could be doing something else far more pleasurable . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9874,
+    "positive_score": 0.9874,
+    "negative_score": 0.0126,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "the reality of the new live-action pinocchio he directed , cowrote and starred in borders on the grotesque . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9857,
+    "positive_score": 0.9857,
+    "negative_score": 0.0143,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "oh come on . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9851,
+    "positive_score": 0.9851,
+    "negative_score": 0.0149,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "vera 's technical prowess ends up selling his film short ; he smoothes over hard truths even as he uncovers them . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9796,
+    "positive_score": 0.9796,
+    "negative_score": 0.0204,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "rarely has leukemia looked so shimmering and benign . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9779,
+    "positive_score": 0.9779,
+    "negative_score": 0.0221,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "the experience of going to a film festival is a rewarding one ; the experiencing of sampling one through this movie is not . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9761,
+    "positive_score": 0.9761,
+    "negative_score": 0.0239,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "this time mr. burns is trying something in the martin scorsese street-realist mode , but his self-regarding sentimentality trips him up again . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9759,
+    "positive_score": 0.9759,
+    "negative_score": 0.0241,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "so much facile technique , such cute ideas , so little movie . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.974,
+    "positive_score": 0.026,
+    "negative_score": 0.974,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "a tv style murder mystery with a few big screen moments ( including one that seems to be made for a different film altogether ) . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9732,
+    "positive_score": 0.9732,
+    "negative_score": 0.0268,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "a working class `` us vs. them '' opera that leaves no heartstring untugged and no liberal cause unplundered . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9725,
+    "positive_score": 0.0275,
+    "negative_score": 0.9725,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "jason x is positively anti-darwinian : nine sequels and 400 years later , the teens are none the wiser and jason still kills on auto-pilot . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9716,
+    "positive_score": 0.9716,
+    "negative_score": 0.0284,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "on the heels of the ring comes a similarly morose and humorless horror movie that , although flawed , is to be commended for its straight-ahead approach to creepiness . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9648,
+    "positive_score": 0.0352,
+    "negative_score": 0.9648,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "the film tunes into a grief that could lead a man across centuries . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9631,
+    "positive_score": 0.0369,
+    "negative_score": 0.9631,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "a full world has been presented onscreen , not some series of carefully structured plot points building to a pat resolution . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9622,
+    "positive_score": 0.0378,
+    "negative_score": 0.9622,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "you 'll gasp appalled and laugh outraged and possibly , watching the spectacle of a promising young lad treading desperately in a nasty sea , shed an errant tear . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9497,
+    "positive_score": 0.0503,
+    "negative_score": 0.9497,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "manages to show life in all of its banality when the intention is quite the opposite . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9455,
+    "positive_score": 0.9455,
+    "negative_score": 0.0545,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "we have n't seen such hilarity since say it is n't so ! ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9447,
+    "positive_score": 0.0553,
+    "negative_score": 0.9447,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "sustains its dreamlike glide through a succession of cheesy coincidences and voluptuous cheap effects , not the least of which is rebecca romijn-stamos . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.944,
+    "positive_score": 0.944,
+    "negative_score": 0.056,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "writer/director joe carnahan 's grimy crime drama is a manual of precinct cliches , but it moves fast enough to cover its clunky dialogue and lapses in logic . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9432,
+    "positive_score": 0.0568,
+    "negative_score": 0.9432,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "drops you into a dizzying , volatile , pressure-cooker of a situation that quickly snowballs out of control , while focusing on the what much more than the why . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9415,
+    "positive_score": 0.0585,
+    "negative_score": 0.9415,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "what the director ca n't do is make either of val kilmer 's two personas interesting or worth caring about . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.941,
+    "positive_score": 0.941,
+    "negative_score": 0.059,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "i do n't mind having my heartstrings pulled , but do n't treat me like a fool . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9368,
+    "positive_score": 0.9368,
+    "negative_score": 0.0632,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "if director michael dowse only superficially understands his characters , he does n't hold them in contempt . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9337,
+    "positive_score": 0.9337,
+    "negative_score": 0.0663,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "intriguing documentary which is emotionally diluted by focusing on the story 's least interesting subject . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9228,
+    "positive_score": 0.0772,
+    "negative_score": 0.9228,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "pumpkin means to be an outrageous dark satire on fraternity life , but its ambitions far exceed the abilities of writer adam larson broder and his co-director , tony r. abrams , in their feature debut . ",
+    "human_label": "NEGATIVE",
+    "model_confidence": 0.9203,
+    "positive_score": 0.9203,
+    "negative_score": 0.0797,
+    "fool_type": "human=NEGATIVE, model=POSITIVE"
+  },
+  {
+    "sentence": "this flick is about as cool and crowd-pleasing as a documentary can get . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9125,
+    "positive_score": 0.0875,
+    "negative_score": 0.9125,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  },
+  {
+    "sentence": "but it still jingles in the pocket . ",
+    "human_label": "POSITIVE",
+    "model_confidence": 0.9017,
+    "positive_score": 0.0983,
+    "negative_score": 0.9017,
+    "fool_type": "human=POSITIVE, model=NEGATIVE"
+  }
+]
